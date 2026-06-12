@@ -63,4 +63,3 @@ The AI character roams randomly within a defined area. When the player enters it
 AI stops roaming and begins to chase the player until the player is out of sight, after which it
 resumes roaming.
 
-# GAME_PROGRAM-EX--7
